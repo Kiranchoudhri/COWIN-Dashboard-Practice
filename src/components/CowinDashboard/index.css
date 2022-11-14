@@ -1,0 +1,52 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.dashboardContainer {
+  background-color: #161625;
+  padding: 10px 100px;
+}
+.headingContainer {
+  display: flex;
+  align-items: center;
+}
+.websiteLogo {
+  width: 50px;
+  margin-right: 10px;
+}
+
+.heading {
+  color: #2cc6c6;
+}
+.vaccinationTitle {
+  color: #cbd5e1;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.failureContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.failureText {
+  margin-top: 10px;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.chartsContainerLoading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.loadingLogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}

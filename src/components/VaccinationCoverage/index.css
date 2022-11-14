@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.vaccinationCoverage {
+  padding: 16px;
+  background-color: #1c1c2b;
+  margin-bottom: 30px;
+}
+.coverageTitle {
+  color: #94a3b8;
+  margin-bottom: 20px;
+}
